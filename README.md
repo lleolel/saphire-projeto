@@ -17,7 +17,7 @@ Desenvolver uma landing page responsiva com base no layout fornecido pelo profes
 ---
 
 ## 🌐 Visualize o projeto
-🔗 [Clique aqui para acessar no GitHub Pages](https://lleolel.github.io/saphire-projeto/)  
+🔗 [Clique aqui para visualizar](https://lleolel.github.io/saphire-projeto/)  
 
 ---
 
