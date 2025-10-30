@@ -16,17 +16,14 @@ Desenvolver uma landing page responsiva com base no layout fornecido pelo profes
 
 ---
 
+## 🌐 Visualize o projeto
+🔗 [Clique aqui para visualizar](https://lleolel.github.io/saphire-projeto/)  
+
 ## 🧱 Tecnologias utilizadas
 - HTML5  
 - CSS3  
 - Flexbox  
 - Responsividade  
-
----
-
-## 💻 Como visualizar
-Basta abrir o arquivo `index.html` no navegador  
-ou usar a extensão **Live Server** no VSCode.
 
 ---
 
