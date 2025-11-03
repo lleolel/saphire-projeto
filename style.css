@@ -360,7 +360,7 @@ body{
 .rodape{
   display: grid;
   gap: 2rem;
-  padding: 4rem 3rem; /* mais suave e equilibrado */
+  padding: 4rem 3rem;
   background-color: #18596B;
 }
 
